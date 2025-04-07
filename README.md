@@ -1,5 +1,6 @@
 # elevate-labs-data-cleaning
-## Objective
+## Objectives
+Medical Appointment No Show Cleaned Data 
 The Elevate Labs Task 1 which is about cleaning raw data and turning it into cleaned data to do data analysis.
 ## Dataset used 
 "C:\Users\udayd\Downloads\cleaned-dataset-hospital-noshow.xlsx"
@@ -12,4 +13,10 @@ Step 4 : By clicking on duplicates on top ribbon remove duplicates on dataset.
 Step 5 : After that go to data and apply filters so for each columns the dropdown is created.
 Step 6 : Now remove null values by selecting valid data and apply.
 Step 7 : Now replace the values with understandable text, I replaced gender as Male,Female which is F,M in format.
-Step 8 : Finally rename the columns as required output.
+Step 8 : Standardized datatypes and verified and fixed datatypes of numeric columns.
+Step 9 : Finally rename the columns as required output.
+## tools used 
+MS Advanced Excel
+## Output
+Cleaned dataset:
+"cleaned-dataset-hospital-noshow.xlsx"
